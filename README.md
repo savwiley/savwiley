@@ -6,6 +6,7 @@ I'm currently learning how to code through [The Odin Project](https://www.theodi
 - :computer: I regularly write in `JS`, `JSX`, `HTML`, `CSS`, and `PHP`.
 - :trophy: My goal is to make a career change to **Web Development**.
 - :speech_balloon: I'm sometimes around on [Twitter](https://twitter.com/sav_swiley).
-- 🖖 Currently obsessed with... Star Trek!
+- 🌌 My profile picture is [M87's Black Hole](https://www.jpl.nasa.gov/news/black-hole-image-makes-history)!
+- 🖖 Currently obsessed with Star Trek!
 
 #### You can find my latest completed TOP projects :point_down: below :point_down: !
