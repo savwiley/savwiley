@@ -9,4 +9,5 @@ I'm currently learning how to code through [The Odin Project](https://www.theodi
 - 🌌 My profile picture is [M87's Black Hole](https://www.jpl.nasa.gov/news/black-hole-image-makes-history)!
 - 🖖 Currently obsessed with Star Trek!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savwiley&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 #### You can find my latest completed TOP projects :point_down: below :point_down: !
