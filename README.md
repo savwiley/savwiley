@@ -1,6 +1,6 @@
 ### Hello! :octocat:
 
-I'm currently working with [The Odin Project](https://www.theodinproject.com/). You can also find me making layouts and tools on [Dreamwidth](https://killthecake.dreamwidth.org/)!
+Learned a majority of my coding skills thanks to the [The Odin Project](https://www.theodinproject.com/). You can also find me making layouts and other CSS tools on [Dreamwidth](https://killthecake.dreamwidth.org/)!
 
 - :mortar_board: I've got a lot of research experience thanks to my **MA in English**.
 - :computer: I regularly write in `JS`, `JSX`, `HTML`, `CSS`, and `PHP`.
