@@ -1,4 +1,4 @@
-### Hello! :octocat:
+# Hello! 👋:
 
 I learned a majority of my coding skills thanks to the [The Odin Project](https://www.theodinproject.com/). You can also find me making layouts and other CSS tools on [Dreamwidth](https://killthecake.dreamwidth.org/)!
 
